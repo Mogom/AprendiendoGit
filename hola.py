@@ -1,5 +1,5 @@
 print("Hola Jan")
 
-asistentes = ["Jan","Kevin"]
+asistentes = ["Jan","Kevin","Jhon","leidy"]
 
 perros = ["Rocky","Firulais"]
