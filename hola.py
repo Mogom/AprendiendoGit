@@ -1,0 +1,3 @@
+print("Hola jan")
+
+asistentes = []
