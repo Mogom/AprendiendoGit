@@ -1,3 +1,3 @@
 print("Hola jan")
 
-asistentes = []
+asistentes = ["Jan","Kevin"]
