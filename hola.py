@@ -1,4 +1,4 @@
-print("Hola jan")
+print("Hola Jan")
 
 asistentes = ["Jan","Kevin"]
 
